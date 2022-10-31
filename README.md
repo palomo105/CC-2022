@@ -2,5 +2,5 @@
 Repositorio para la asignatura de CC del master de informática de la UGR
 ## Documentación 
 [hito0](https://github.com/palomo105/CC-2022/blob/66aa974ba1c583f2d96cb40b54064a4cc65f7efa/documentaci%C3%B3n/hito0.md)
-## Titulo de proyecto
-Descripcion de proyecto
+## Telemarket
+Telemarket es una aplicacion para hacer la compra online en cualquier supermercado de la ciudad. Con esto nos ahorramos tener que crearnos cuentas en las diferentes páginas web de los supermercados, una cuenta y múltiples opciones. Se acumularán puntos por usar la aplicación para futuros descuentos y así motivar a que los usuarios usen la aplicación.
